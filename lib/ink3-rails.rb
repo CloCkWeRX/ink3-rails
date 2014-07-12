@@ -59,3 +59,4 @@ module Ink
     end
   end
 end
+Ink.load!
